@@ -8,7 +8,7 @@
 
 
 int searchInsert(int* nums, int numsSize, int target){
-
+    int ok;
 }
 // @lc code=end
 
