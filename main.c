@@ -2,11 +2,7 @@
  * @Author       : liuben
  * @Date         : 2022-04-23 22:35:28
  * @LastEditors  : liuben
-<<<<<<< HEAD
- * @LastEditTime : 2022-04-24 00:10:35
-=======
- * @LastEditTime : 2022-04-23 23:59:22
->>>>>>> c371e807a2cd841f0ecb5a48f3a8a9dbd68e78db
+ * @LastEditTime : 2022-04-24 00:39:15
  * @Description  : general main function
  * @FilePath     : /leetcode_c/main.c
  */
@@ -31,8 +27,6 @@ int main()
 
     free(nums_a);
     free(nums_b);
-
-    printf("amend");
 
     return 0;
 }
