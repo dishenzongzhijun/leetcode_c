@@ -2,7 +2,11 @@
  * @Author       : liuben
  * @Date         : 2022-04-23 22:35:28
  * @LastEditors  : liuben
+<<<<<<< HEAD
  * @LastEditTime : 2022-04-24 00:01:32
+=======
+ * @LastEditTime : 2022-04-23 23:59:22
+>>>>>>> c371e807a2cd841f0ecb5a48f3a8a9dbd68e78db
  * @Description  : general main function
  * @FilePath     : /leetcode_c/main.c
  */
