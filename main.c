@@ -2,7 +2,7 @@
  * @Author       : liuben
  * @Date         : 2022-04-23 22:35:28
  * @LastEditors  : liuben
- * @LastEditTime : 2022-04-23 23:41:29
+ * @LastEditTime : 2022-04-23 23:47:05
  * @Description  : general main function
  * @FilePath     : /leetcode_c/main.c
  */
@@ -27,7 +27,6 @@ int main()
 
     free(nums_a);
     free(nums_b);
-    printf("test again");
 
     return 0;
 }
